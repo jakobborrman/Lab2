@@ -3,10 +3,7 @@
 # 2/8/2024
 # Lab 02 
 # Lab Section: 40
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Sources, people worked with, help given to: lab manual and TAs helped me. I did not help or work with anyone
 
 ## Section ONE
 
